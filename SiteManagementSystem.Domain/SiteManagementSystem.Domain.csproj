@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SiteManagementSystem.DataModel\SiteManagementSystem.DataModel.csproj" />
+    <ProjectReference Include="..\SiteManagementSystem.DataModel\SiteManagementSystem.Data.csproj" />
   </ItemGroup>
 
 </Project>

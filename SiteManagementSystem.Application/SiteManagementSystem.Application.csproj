@@ -10,4 +10,9 @@
     <Folder Include="Common\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SiteManagementSystem.DataModel\SiteManagementSystem.Data.csproj" />
+    <ProjectReference Include="..\SiteManagementSystem.Domain\SiteManagementSystem.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
